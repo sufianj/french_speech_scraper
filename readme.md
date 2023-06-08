@@ -12,7 +12,7 @@ You can choose the number of pages to be scraped by filling the class variables 
 
 ## Update 
 
-08/06/2023: I remark that some of the speeches contains <br> and not <p/>. Thus I take all the inner html contents and remove the tags afterwards.
+08/06/2023: I remark that some of the speeches contains ```<br>``` and not ```<p/>```. Thus I take all the inner html contents and remove the tags afterwards.
 
 
 ## Required Dependencies
